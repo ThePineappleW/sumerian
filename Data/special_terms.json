@@ -1,0 +1,27 @@
+{
+    "special_terms": [
+        "fermenting vat", "counsellor", "reedbed", "limbs", "hulled barley", "sceptre",
+        "composition-division", "possessions", "kid goat", "son-in-law", "buttocks",
+        "troops", "acacia", "clamour", "metalsmith", "nest hunter", "waggon", "skillfulness",
+        "skilfulness", "seawater", "animals", "cult centre", "girlfriend",
+        "roofbeam", "sumerian language", "seed-funnel", "hoe-wielder", "ox-driver",
+        "daughter-in-law", "go-between fee", "teeming animals", "bird-trap", "potstand",
+        "portage-place", "bird-cry", "lapis lazuli", "sister-in-law", "egg-shaped bead",
+        "palm fibre", "skip-rope game", "stiletto blade", "venus star",
+        "female kid", "longside beam", "dire straits", "haunted desert",
+        "lying-in-state room", "punting pole", "double-axe", "blinkers",
+        "woodcarver", "deep-draught boat", "yoked donkey", "field-working", "labourer",
+        "bolt-handler", "bug-ridden goat", "louse-ridden goat", "jewellery shaped like female genitals",
+        "asafoetida", "sea-land", "no-good-at-all", "hunter", "flood-storm", "bag for carrying metals"
+    ],
+    "special_removal_labels": [
+        "a+ma", "ewe", "cella", "ga", "u", "pu", "ne", "mi-ne", "rm-sn", "ur.a",
+        "designation of mound", "designation of stick", "writing for different types of grass",
+        "cella",
+        "writing for different types of land", "lying-in-state room", "noun part of multiword verb",
+        "so be it",
+        "cuneiform wedge", "no good at all", "no resisting this storm",
+        "writing of gu-an-ne-si and kurku",
+        "possibly related to lukar", "an.ba", "sun disc", "the enemy cannot escape", "rimu"
+    ]
+}

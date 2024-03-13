@@ -1,3 +1,4 @@
 *.zip
-/Data/ETCSL/etcsl/
-
+Data/ETCSL/etcsl/
+venv/
+.vscode/

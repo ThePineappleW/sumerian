@@ -1,0 +1,34 @@
+BPE:
+Test Loss: 1.0473450422286987
+Test Accuracy: 0.8365088105201721
+
+
+Unigram:
+Test Loss: 1.0018960237503052
+Test Accuracy: 0.8479405045509338
+
+Word:
+Test Loss: 2.178837537765503
+Test Accuracy: 0.5418254137039185
+
+Default:
+Test Loss: 0.9304115772247314
+Test Accuracy: 0.8677191138267517
+
+Trained on form:
+
+Default:
+Test Loss: 5.7197394371032715
+Test Accuracy: 0.019778624176979065
+
+BPE:
+Test Loss: 1.367871642112732
+Test Accuracy: 0.7989475727081299
+
+Unigram:
+Test Loss: 1.34878671169281
+Test Accuracy: 0.8007621169090271
+
+Word:
+Test Loss: 4.902414321899414
+Test Accuracy: 0.056614045053720474
